@@ -1,7 +1,5 @@
-ECHO is on.
-# Ignore virtual environment
-venv/
-_pycache_/
-*.pyc
-*.pyo
+venv/ 
+_pycache_/ 
+*.log 
+*.sqlite3 
 .DS_Store
