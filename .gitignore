@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 venv/ 
 _pycache_/ 
 *.log 
 *.sqlite3 
 .DS_Store
+=======
+ECHO is on.
+# Ignore virtual environment
+venv/
+_pycache_/
+*.pyc
+*.pyo
+.DS_Store
+>>>>>>> 162d15b (Initial setup with virtual environment and dependencies)
